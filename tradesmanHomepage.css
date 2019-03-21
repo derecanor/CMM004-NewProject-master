@@ -1,0 +1,39 @@
+#jobsForm {
+    display: block;
+    text-align: center;
+}
+
+#biddingForm {
+    display: block;
+    text-align: center;
+}
+
+#comments {
+    text-wrap: normal;
+    width: 95%;
+    height: 300px;
+}
+
+#biddingForm>select {
+    height: 60px;
+    width: 95%;
+    font-size: 13px;
+}
+
+#professionSelect {
+    height:40px;
+    width: 90%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px #717171
+}
+
+#jobList {
+    background: white;
+    width: 70%;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 10px;
+    display: inline-block;
+}
